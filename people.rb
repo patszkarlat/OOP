@@ -6,7 +6,7 @@ class Person
 	end
 
 	def greeting
-		puts "Hi! My name is #{name}!"
+		puts "Hi! My name is #{@name}!"
 	end
 end
 
